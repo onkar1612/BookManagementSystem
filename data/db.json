@@ -1,12 +1,6 @@
 {
   "books": [
     {
-      "id": "152",
-      "title": "ikigai",
-      "author": "hector",
-      "price": 150
-    },
-    {
       "id": "263",
       "title": "Harry Potter",
       "author": "J.K.Rowling",
